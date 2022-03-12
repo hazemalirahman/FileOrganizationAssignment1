@@ -1,5 +1,0 @@
-C:\Users\bahy\Desktop\assignment1.exe
-C:\Users\bahy\Desktop\assignment1.dll
-C:\Users\bahy\Desktop\assignment1.deps.json
-C:\Users\bahy\Desktop\assignment1.runtimeconfig.json
-C:\Users\bahy\Desktop\assignment1.pdb
